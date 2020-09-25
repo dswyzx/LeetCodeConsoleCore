@@ -4,9 +4,9 @@ using System.Text;
 
 namespace LeetCodeConsoleCore
 {
-    class program
+    class Permute_program
     {
-        static void Main(string[] args)
+        static void Main46(string[] args)
         {
             int[] a = new int[] { 1, 2, 3 };
 
