@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="3\322_CoinChange_program - 复制.cs~RF170dcc1b.TMP" />
+    <None Remove="2020\3\322_CoinChange_program - 复制.cs~RF170dcc1b.TMP" />
   </ItemGroup>
 
   <ItemGroup>
